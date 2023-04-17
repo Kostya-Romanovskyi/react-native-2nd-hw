@@ -41,7 +41,7 @@ export default function App() {
           <StatusBar style="auto" />
           <KeyboardAvoidingView>
             <RegistrationScreen dimensions={dimensions} />
-            {/* <LoginScreen dimensions={dimensions} test={isShowKeyboard} /> */}
+            {/* <LoginScreen dimensions={dimensions} /> */}
           </KeyboardAvoidingView>
         </ImageBackground>
       </View>
